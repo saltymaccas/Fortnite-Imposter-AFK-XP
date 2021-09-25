@@ -2,11 +2,11 @@
  
 ## How to use:
 
-1. Download the `.exe` file from `realeses`
+1. Download the zipped file from `realeses` and extract it
 2. start fortnite and set the game mode to imposters
 3. set fortnite resouloution to 1920 by 1080 (may not work if you dont)
 4. set all graphic options and fps to low (optional)
-5. start the scrtipt and go afk
+5. start the scrtipt by opening the `.exe` file in the folder and go afk
 
 ## How it works
 
