@@ -10,4 +10,4 @@
 
 ## How it works
 
-The script will constantly look for cirtain elements (Such as the play button) when the element is fuound it will click it. It will also press `E` and `F` to skip vote and leave the match quickly.
+The script will constantly look for cirtain elements (Such as the play button) when the element is found it will click it. It will also press `E` and `F` to skip vote and leave the match quickly.
