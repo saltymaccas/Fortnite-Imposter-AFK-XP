@@ -2,7 +2,7 @@
  
 ## How to use:
 
-1. Download the `.exe` file from `realises`
+1. Download the `.exe` file from `realeses`
 2. start fortnite and set the game mode to imposters
 3. set fortnite resouloution to 1920 by 1080 (may not work if you dont)
 4. set all graphic options and fps to low (optional)
