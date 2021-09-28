@@ -16,9 +16,27 @@ while True:
     gui.keyDown('e')
     time.sleep(3)
     gui.keyUp('e')
+
+    gui.keyDown('w')
+    time.sleep(1)
+    gui.keyUp('w')
+
+    gui.keyDown('a')
+    time.sleep(1)
+    gui.keyUp('a')
+
+    gui.keyDown('s')
+    time.sleep(1)
+    gui.keyUp('s')
+
+    gui.keyDown('d')
+    time.sleep(1)
+    gui.keyUp('d')
+
     gui.keyDown('f')
     time.sleep(3)
     gui.keyUp('f')
+
     if gui.locateOnScreen('claim.png', confidence=0.8) != None:
         click('claim.png')
     if gui.locateOnScreen('close.png', confidence=0.8) != None:
