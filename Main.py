@@ -18,20 +18,26 @@ while True:
     gui.keyUp('e')
 
     gui.keyDown('w')
-    time.sleep(1)
+    time.sleep(3)
     gui.keyUp('w')
 
     gui.keyDown('a')
-    time.sleep(1)
+    time.sleep(3)
     gui.keyUp('a')
-
+    
     gui.keyDown('s')
-    time.sleep(1)
+    time.sleep(3)
     gui.keyUp('s')
 
     gui.keyDown('d')
-    time.sleep(1)
+    time.sleep(3)
     gui.keyUp('d')
+
+    gui.keyDown('b')
+    time.sleep(3)
+    gui.keyUp('b')
+
+
 
     gui.keyDown('f')
     time.sleep(3)
